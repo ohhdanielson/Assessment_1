@@ -70,7 +70,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - [PurpleBooth](https://github.com/ohhdanielson)
+* **Daniel Hardwick** - [ohhdanielson](https://github.com/ohhdanielson)
 
 
 ## License
@@ -81,4 +81,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Universty of Leeds
 * https://www.python.org/
-* etc
+
