@@ -17,7 +17,7 @@ These instructions will enable you to successfully run the ABM. They are three f
 * agentframework.py
 * raster.txt
 
-Open both Assessment1.py and agentframework.py within Spyder and run the Assessment1.py file, the model will the run.
+Open both Assessment1.py and agentframework.py within Spyder and run the Assessment1.py file, the model will then run.
 
 ## Running the code
 
