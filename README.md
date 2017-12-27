@@ -1,6 +1,7 @@
 # Assessment 1 
 
 This python file contains a simple agent-based model (ABM) which has been builtup during the last 10 weeks of practical work. 
+Further information can be found at https://ohhdanielson.github.io/Assessment_1/
 
 ### Prerequisites
 
