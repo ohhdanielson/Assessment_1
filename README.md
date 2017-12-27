@@ -1,6 +1,6 @@
 # Assessment 1 
 
-This python file contains a simple agent-based model (ABM) which has been builtup during the last 10 weeks. 
+This python file contains a simple agent-based model (ABM) which has been builtup during the last 10 weeks of practical work. 
 
 ## Getting Started
 
@@ -8,65 +8,19 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-In order to use the python file it is recommended to use the following software:
+In order to run the python file it is recommended that you use the following software:
 
 ```
 Spyder. Available from - https://pypi.python.org/pypi/spyder
 ```
 
-### Installing
+## Running the code
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+To successfully run the code you must have each file in same directory.
 
 ## Built With
 
 * Spyder
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
