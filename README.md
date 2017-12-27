@@ -2,10 +2,6 @@
 
 This python file contains a simple agent-based model (ABM) which has been builtup during the last 10 weeks of practical work. 
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 In order to run the python file it is recommended that you use the following software:
@@ -13,6 +9,14 @@ In order to run the python file it is recommended that you use the following sof
 ```
 Spyder. Available from - https://pypi.python.org/pypi/spyder
 ```
+## Getting Started
+
+These instructions will enable you to successfully run the ABM. They are three files which are required to run the code, these are:
+* Assessment1.py
+* agentframework.py
+* raster.txt
+
+Open both Assessment1.py and agentframework.py within Spyder and run the Assessment1.py file, the model will the run.
 
 ## Running the code
 
